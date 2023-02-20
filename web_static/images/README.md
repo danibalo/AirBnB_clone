@@ -1,1 +1,1 @@
-Images for the projects
+icon.png
