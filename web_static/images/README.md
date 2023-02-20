@@ -1,1 +1,1 @@
-images
+all images
